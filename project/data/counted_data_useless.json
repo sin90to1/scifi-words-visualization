@@ -1,0 +1,42 @@
+{
+"3001": {
+"Number of Words": 50629,
+"Average Paragraph Length": 37
+},
+"2061": {
+"Number of Words": 59305,
+"Average Paragraph Length": 36
+},
+"2010": {
+"Number of Words": 74534,
+"Average Paragraph Length": 35
+},
+"2001": {
+"Number of Words": 61327,
+"Average Paragraph Length": 47
+},
+"dune_4": {
+"Number of Words": 136620,
+"Average Paragraph Length": 21
+},
+"dune_3": {
+"Number of Words": 147274,
+"Average Paragraph Length": 30
+},
+"dune_1": {
+"Number of Words": 185339,
+"Average Paragraph Length": 24
+},
+"dune_2": {
+"Number of Words": 73598,
+"Average Paragraph Length": 24
+},
+"dune_5": {
+"Number of Words": 163452,
+"Average Paragraph Length": 26
+},
+"dune_6": {
+"Number of Words": 140954,
+"Average Paragraph Length": 22
+}
+}
